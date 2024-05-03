@@ -7,9 +7,9 @@
         "name":"Vowgan",
         "url":""
     },
-    "description":"Update me later",
+    "description":"This is a list of all the packages I've made available for use with VRChat's Creator Companion app.",
     "infoLink":{
-        "url":"https://github.com/Vowgan/VowganPackages",
+        "url":"https://github.com/VirtualVisions/VRC-Packages",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
