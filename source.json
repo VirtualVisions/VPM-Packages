@@ -8,10 +8,6 @@
         "url":""
     },
     "description":"This is a list of all the packages I've made available for use with VRChat's Creator Companion app.",
-    "infoLink":{
-        "url":"https://github.com/VirtualVisions/VPM-Packages",
-        "text":"View on GitHub"
-    },
     "bannerUrl":"banner.png",
     "githubRepos":[
         "VirtualVisions/ContactAudioVPM",
