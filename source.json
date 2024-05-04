@@ -1,7 +1,7 @@
 {
     "name":"Vowgan's Packages",
     "id":"com.vowgan.packages",
-    "url":"https://vowgan.github.io/VowganPackages/index.json",
+    "url":"https://virtualvisions.github.io/VPM-Packages/index.json",
     "author":{
         "email":"vowganvr@gmail.com",
         "name":"Vowgan",
@@ -9,7 +9,7 @@
     },
     "description":"This is a list of all the packages I've made available for use with VRChat's Creator Companion app.",
     "infoLink":{
-        "url":"https://github.com/VirtualVisions/VRC-Packages",
+        "url":"https://github.com/VirtualVisions/VPM-Packages",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
