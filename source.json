@@ -15,7 +15,6 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "VirtualVisions/ContactAudioVPM",
-        "VirtualVisions/ArcheryKitVPM",
-        "VirtualVisions/ClocksVPM"
+        "VirtualVisions/ArcheryKitVPM"
     ]
 }
