@@ -17,6 +17,7 @@
         "VirtualVisions/ContactAudioVPM",
         "VirtualVisions/ArcheryKitVPM",
         "VirtualVisions/ClocksVPM",
-        "VirtualVisions/ModularFoodVPM"
+        "VirtualVisions/ModularFoodVPM",
+        "VirtualVisions/InsightCameraVPM"
     ]
 }
