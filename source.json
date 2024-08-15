@@ -18,6 +18,7 @@
         "VirtualVisions/ArcheryKitVPM",
         "VirtualVisions/ClocksVPM",
         "VirtualVisions/ModularFoodVPM",
+        "VirtualVisions/PickupInventoryVPM",
         "VirtualVisions/InsightCameraVPM"
     ]
 }
